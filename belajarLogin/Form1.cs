@@ -13,7 +13,7 @@ namespace belajarLogin
     public partial class Form1 : Form
     {
         readonly string Username = "admin";
-        readonly string Password = "123";
+        readonly string Password = "12345";
 
         public Form1()
         {
