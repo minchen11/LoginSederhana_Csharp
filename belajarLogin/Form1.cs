@@ -66,5 +66,56 @@ namespace belajarLogin
             }
 
         }
+
+
+        //Membuat Placeholder untuk textbox username
+        private void TxtUsername_Enter(object sender, EventArgs e)
+        {
+            if(TxtUsername.Text == "Username")
+            {
+                TxtUsername.Text = "";
+
+                TxtUsername.ForeColor = Color.Black;
+            }
+        }
+
+        //saat textbox username ditinggalkan dalam kondisi kosong, text username yg sebagai placeholder akan berubah menjadi warna silver
+        private void TxtUsername_Leave(object sender, EventArgs e)
+        {
+
+            if (TxtUsername.Text == "")
+            {
+                TxtUsername.Text = "Username";
+
+                TxtUsername.ForeColor = Color.Silver;
+            }
+
+        }
+
+
+        //Membuat Placeholder untuk textbox password
+        private void TxtPassword_Enter(object sender, EventArgs e)
+        {
+
+            if (TxtPassword.Text == "Password")
+            {
+                TxtPassword.Text = "";
+
+                TxtPassword.ForeColor = Color.Black;
+            }
+
+        }
+
+        private void TxtPassword_Leave(object sender, EventArgs e)
+        {
+
+            if (TxtPassword.Text == "")
+            {
+                TxtPassword.Text = "Password";
+
+                TxtPassword.ForeColor = Color.Silver;
+            }
+
+        }
     }
 }

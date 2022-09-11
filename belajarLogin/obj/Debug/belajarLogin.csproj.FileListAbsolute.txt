@@ -10,3 +10,15 @@ C:\Users\User\source\repos\belajarLogin\belajarLogin\obj\Debug\belajarLogin.cspr
 C:\Users\User\source\repos\belajarLogin\belajarLogin\obj\Debug\belajarLogin.exe
 C:\Users\User\source\repos\belajarLogin\belajarLogin\obj\Debug\belajarLogin.pdb
 C:\Users\User\source\repos\belajarLogin\belajarLogin\obj\Debug\belajarLogin.Form2.resources
+D:\belajarLogin\belajarLogin\bin\Debug\belajarLogin.exe.config
+D:\belajarLogin\belajarLogin\bin\Debug\belajarLogin.exe
+D:\belajarLogin\belajarLogin\bin\Debug\belajarLogin.pdb
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.csproj.AssemblyReference.cache
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.csproj.SuggestedBindingRedirects.cache
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.Form1.resources
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.Form2.resources
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.Properties.Resources.resources
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.csproj.GenerateResource.cache
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.csproj.CoreCompileInputs.cache
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.exe
+D:\belajarLogin\belajarLogin\obj\Debug\belajarLogin.pdb
